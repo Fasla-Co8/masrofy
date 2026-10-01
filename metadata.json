@@ -1,0 +1,6 @@
+{
+  "name": "Masrof - Personal Finance & Expense Tracker",
+  "description": "Masrof helps you track your spending, plan your budget, securely connect bank accounts, and understand your financial habits — all in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
